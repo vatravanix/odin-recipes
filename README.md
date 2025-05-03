@@ -15,3 +15,7 @@ UPDATE: CSS STYLING (2025-05-03 12:23:59)
 
 Having completed the Block and Inline page, the assignment is indeed to start styling the recipes page with everything we've learned from CSS recently. That
 includes the dreaded margin value, which continually breaks my brain. I'm updating this README to state I'm gonna give it a crack today and see just how ugly I can make the recipes page with some external css. I plan to come back and evaluate here once I'm done, keeping somewhat of a log of the journey to try and remind myself of the progress being made.
+
+UPDATE: AFTER BASIC CSS (2025-05-03 13:54:31):
+
+Feels like it took an embarrassing amount of time to code both the div and the individual elements within it to have a background colour that matched each other and stood out from the homepage background colour. I am absolutely certain that my current CSS code is bloated and ugly, and I plan to take some time to look at it in a day or so to see if there's any ways I could cut it down further. So far, though, alongside VSCode Live Server extension and the devtools in Chrome, I am starting to feel slightly a little bit comfortable with the box method. I think probably after another 6,000 years practising I might actually "get" it.
